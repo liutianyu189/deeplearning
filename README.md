@@ -1,1 +1,1 @@
-torch1.6+torchvision0.7
+torch1.7.1+torchvision0.8.2
